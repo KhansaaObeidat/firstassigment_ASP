@@ -1,0 +1,14 @@
+D:\asp.net\firstassig\firstassig\bin\Debug\net8.0\firstassig.exe
+D:\asp.net\firstassig\firstassig\bin\Debug\net8.0\firstassig.deps.json
+D:\asp.net\firstassig\firstassig\bin\Debug\net8.0\firstassig.runtimeconfig.json
+D:\asp.net\firstassig\firstassig\bin\Debug\net8.0\firstassig.dll
+D:\asp.net\firstassig\firstassig\bin\Debug\net8.0\firstassig.pdb
+D:\asp.net\firstassig\firstassig\obj\Debug\net8.0\firstassig.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net\firstassig\firstassig\obj\Debug\net8.0\firstassig.AssemblyInfoInputs.cache
+D:\asp.net\firstassig\firstassig\obj\Debug\net8.0\firstassig.AssemblyInfo.cs
+D:\asp.net\firstassig\firstassig\obj\Debug\net8.0\firstassig.csproj.CoreCompileInputs.cache
+D:\asp.net\firstassig\firstassig\obj\Debug\net8.0\firstassig.dll
+D:\asp.net\firstassig\firstassig\obj\Debug\net8.0\refint\firstassig.dll
+D:\asp.net\firstassig\firstassig\obj\Debug\net8.0\firstassig.pdb
+D:\asp.net\firstassig\firstassig\obj\Debug\net8.0\firstassig.genruntimeconfig.cache
+D:\asp.net\firstassig\firstassig\obj\Debug\net8.0\ref\firstassig.dll
